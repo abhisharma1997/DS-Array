@@ -32,6 +32,7 @@ Types of Array :
         It's  a most complex type of array which contains data of same type in linear structure
             and at contiguous memory locations in 3 Dimensions.
             We can say 3-D Array as  Array of 2-D Array
+
             Example : a[2][4][4] = {{   {1,2,3,4},
                                     {5,6,7,8},
                                     {9,10,11,12},
@@ -41,6 +42,7 @@ Types of Array :
                                     {9,10,11,12},
                                     {13,14,15,16}
                                 }}
+
                        a[2][4][4] specifies a[array][row][column]
         
 
