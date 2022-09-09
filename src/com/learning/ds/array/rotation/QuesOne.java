@@ -9,7 +9,7 @@ import java.util.Arrays;
                 N = 4
                 d = 2
  */
-public class quesOne {
+public class QuesOne {
     public static void rotate1(int[] a , int len, int pos){
         /*
         Approach 1 :
